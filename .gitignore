@@ -1,0 +1,2 @@
+# ignore all compiled tests
+tests/*.py
